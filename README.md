@@ -13,7 +13,7 @@ REST APIs across AWS and Azure.
 
 Currently completing my MS at UIC, I focus on agentic AI systems, multi-agent 
 LLM architectures, and scalable ML pipelines. I enjoy working at the intersection 
-of AI research and real-world engineering — building systems that are production-ready, 
+of AI research and real-world engineering, building systems that are production-ready, 
 not just experimental.
 
 Previously at PwC as a Senior Software Engineer for 3.5+ years, I built and 
