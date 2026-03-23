@@ -16,8 +16,10 @@ LLM architectures, and scalable ML pipelines. I enjoy working at the intersectio
 of AI research and real-world engineering — building systems that are production-ready, 
 not just experimental.
 
-Previously at PwC, I built and deployed REST APIs for a B2C SaaS talent marketplace 
-serving 32K+ active users, led incident response teams, and mentored engineering interns.
+Previously at PwC as a Senior Software Engineer for 3.5+ years, I built and 
+deployed 10+ REST APIs for a B2C SaaS talent marketplace serving 32K+ active 
+users, streamlined CI/CD pipelines achieving 98% deployment success, led a 
+10-member incident response team, and mentored 5 engineering interns.
 
 ---
 
@@ -27,24 +29,22 @@ serving 32K+ active users, led incident response teams, and mentored engineering
 |--------|-------------|-------|
 | [Distributed RAG System](https://github.com/mollyx09/graphrag) | End-to-end distributed RAG pipeline for 600+ research papers on AWS — Hadoop → Spark → Flink + Neo4j | Python, Spark, Flink, Neo4j, Docker, AWS EKS |
 | [Memory Anchor](https://github.com/mollyx09/Promptonauts) | Agentic AI app for Alzheimer's support · **Hackathon Finalist Top 6/80** | Python, Google Gemini, Agentic AI |
-| [Multi-Agent LLM Study *(In Progress)*] | Empirical comparison of single vs. multi-agent LLM systems for code generation & requirements engineering | Python, LangGraph, Claude, EvalPlus |
+| Multi-Agent LLM Study *(In Progress)* | Empirical comparison of single vs. multi-agent LLM systems for code generation & requirements engineering | Python, LangGraph, Claude, EvalPlus |
 | [Movie Recommendation System](https://github.com/mollyx09/Movie-Recommendation) | AI-powered recommender · 0.92 RMSE · FastAPI inference service | Python, FastAPI, Docker, Jenkins, Grafana |
 
 ---
 
 ## 🛠️ Core Strengths
 
-**AI & LLM Systems:** Agentic AI, RAG pipelines, LangGraph, multi-agent orchestration,
-Google Gemini, OpenAI/ChatGPT, Claude, Ollama
+**AI & LLM Systems:** Agentic AI, RAG pipelines, LangGraph, multi-agent orchestration, Google Gemini, OpenAI/ChatGPT, Claude, Ollama
 
 **Backend & APIs:** REST APIs, ASP.NET, FastAPI, Django, Microservices, Akka HTTP
 
-**Cloud & DevOps:** AWS (EKS, EMR, S3, EC2, ECR, IAM), Azure, Docker, 
-Kubernetes, Jenkins, CI/CD, Linux
+**Cloud & DevOps:** AWS (EKS, EMR, S3, EC2, ECR, IAM), Azure, Azure DevOps, Docker, Kubernetes, Jenkins, CI/CD, Linux/Unix, Git, GitHub
 
-**Languages:** Python, C#, Scala, JavaScript
+**Languages & Web:** Python, C#/.NET, Scala, JavaScript, HTML, CSS, JSON, WordPress
 
-**Data & ML:** Apache Spark, Flink, Hadoop, Delta Lake, PostgreSQL, Neo4j, MySQL
+**Data & ML:** Apache Spark, Flink, Hadoop MapReduce, Delta Lake, SQL, MySQL, PostgreSQL, NoSQL, Neo4j
 
 ---
 
