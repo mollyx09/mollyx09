@@ -1,4 +1,4 @@
-# Hi, I'm Moulshree Guleria 👋
+# Hi, I'm Moulshree Guleria ✨
 
 **AI Developer & Backend Engineer** | MS Computer Science @ UIC | Ex-PwC Senior SWE  
 📍 Chicago, IL · 🔗 [LinkedIn](https://linkedin.com/in/moulshreegul) · 📧 mxguleria@gmail.com
