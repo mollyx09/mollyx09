@@ -27,7 +27,7 @@ users, streamlined CI/CD pipelines achieving 98% deployment success, led a
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [Distributed RAG System](https://github.com/mollyx09/graphrag) | End-to-end distributed RAG pipeline for 600+ research papers on AWS — Hadoop → Spark → Flink + Neo4j | Python, Spark, Flink, Neo4j, Docker, AWS EKS |
+| [Distributed RAG System](https://github.com/mollyx09/graphrag) | End-to-end distributed RAG pipeline for 600+ research papers on AWS — Hadoop → Spark → Flink + Neo4j | Scala, Apache Spark, Hadoop MapReduce, Apache Flink, Neo4j, Docker, AWS EKS |
 | [Memory Anchor](https://github.com/mollyx09/Promptonauts) | Agentic AI app for Alzheimer's support · **Hackathon Finalist Top 6/80** | Python, Google Gemini, Agentic AI |
 | Multi-Agent LLM Study *(In Progress)* | Empirical comparison of single vs. multi-agent LLM systems for code generation & requirements engineering | Python, LangGraph, Claude, EvalPlus |
 | [Movie Recommendation System](https://github.com/mollyx09/Movie-Recommendation) | AI-powered recommender · 0.92 RMSE · FastAPI inference service | Python, FastAPI, Docker, Jenkins, Grafana |
