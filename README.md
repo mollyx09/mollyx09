@@ -7,19 +7,11 @@
 
 ## About Me
 
-I'm an AI Developer and Backend Engineer with ~4 years of production experience 
-building AI/LLM-powered applications, distributed RAG systems, and cloud-native 
-REST APIs across AWS and Azure.
+I'm an AI Developer and Backend Engineer with ~4 years of production backend engineering experience, now specializing in designing and deploying AI/LLM-powered applications, distributed RAG systems, and cloud-native REST APIs across AWS and Azure.
 
-I recently completed my MS in Computer Science at University of Illinois at Chicago (UIC), I focus on Agentic AI systems, multi-agent 
-LLM architectures, distributed RAG pipelines and scalable ML pipelines. I enjoy working at the intersection 
-of AI research and real-world engineering, building systems that are production-ready, 
-not just experimental.
+I recently completed my MS in Computer Science at University of Illinois at Chicago (UIC), I focus on Agentic AI systems, multi-agent LLM architectures, distributed RAG pipelines and scalable ML pipelines. I enjoy working at the intersection of AI research and real-world engineering, building systems that are production-ready, not just experimental.
 
-Previously at PwC as a Senior Software Engineer for 3.5+ years, I built and 
-deployed 10+ REST APIs for a B2C SaaS talent marketplace serving 32K+ active 
-users, streamlined CI/CD pipelines achieving 98% deployment success, led a 
-10-member incident response team, and mentored 5 engineering interns.
+Previously at PwC as a Senior Software Engineer for 3.5+ years, I built and deployed 10+ REST APIs for a B2C SaaS talent marketplace serving 32K+ active users, streamlined CI/CD pipelines achieving 98% deployment success, led a 10-member incident response team, and mentored 5 engineering interns.
 
 ---
 
@@ -29,7 +21,7 @@ users, streamlined CI/CD pipelines achieving 98% deployment success, led a
 |--------|-------------|-------|
 | [Distributed RAG System](https://github.com/mollyx09/graphrag) | End-to-end distributed RAG pipeline for 600+ research papers on AWS — Hadoop → Spark → Flink + Neo4j | Scala, Apache Spark, Hadoop MapReduce, Apache Flink, Neo4j, Docker, AWS EKS |
 | [Memory Anchor](https://github.com/mollyx09/Promptonauts) | Agentic AI app for Alzheimer's support · **Hackathon Finalist Top 6/80** | Python, Google Gemini, Agentic AI |
-| Multi-Agent LLM Study *(In Progress)* | Empirical comparison of single vs. multi-agent LLM systems for code generation & requirements engineering | Python, LangGraph, Claude, EvalPlus |
+| Multi-Agent LLM Evaluation Framework | Designed LangGraph-based single-agent and multi-agent LLM pipelines for code generation and requirements engineering, evaluating accuracy, cost, and repair effort across 1,282+ tasks | Python, LangGraph, LangChain, Claude, EvalPlus |
 | [Movie Recommendation System](https://github.com/mollyx09/Movie-Recommendation) | AI-powered recommender · 0.92 RMSE · FastAPI inference service | Python, FastAPI, Docker, Jenkins, Grafana |
 
 ---
