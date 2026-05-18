@@ -1,18 +1,18 @@
 # Hi, I'm Moulshree Guleria ✨
 
-**AI Developer & Backend Engineer** | MS Computer Science @ UIC | Ex-PwC Senior SWE  
+**AI Developer & Backend Engineer** | MS Computer Science, UIC | Ex-PwC Senior SWE  
 📍 Chicago, IL · 🔗 [LinkedIn](https://linkedin.com/in/moulshreegul) · 📧 mxguleria@gmail.com
 
 ---
 
 ## About Me
 
-I'm an AI Developer and Backend Engineer with 3+ years of production experience 
+I'm an AI Developer and Backend Engineer with ~4 years of production experience 
 building AI/LLM-powered applications, distributed RAG systems, and cloud-native 
 REST APIs across AWS and Azure.
 
-Currently completing my MS at UIC, I focus on agentic AI systems, multi-agent 
-LLM architectures, and scalable ML pipelines. I enjoy working at the intersection 
+I recently completed my MS in Computer Science at University of Illinois at Chicago (UIC), I focus on Agentic AI systems, multi-agent 
+LLM architectures, distributed RAG pipelines and scalable ML pipelines. I enjoy working at the intersection 
 of AI research and real-world engineering, building systems that are production-ready, 
 not just experimental.
 
